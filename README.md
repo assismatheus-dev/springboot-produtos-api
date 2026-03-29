@@ -24,4 +24,5 @@
 ## Swagger
 http://localhost:8080/api/swagger-ui/index.html
 
-## Obs: Primeira api desenvolvida
+## 📌 Observação
+Projeto desenvolvido com foco em boas práticas de arquitetura e construção de APIs REST com Spring Boot.
